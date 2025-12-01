@@ -26,22 +26,6 @@ This project involved designing and implementing a complete database system for 
 - Ternary Relationship: `WATCH_HISTORY` connects `PROFILE`, `CONTENT`, and time
 - Multiple M:N relationships with associative entities
 
-## 📁 Project Structure
-
-```
-netflix-database-project/
-├── Phase1/
-│   ├── G4-Team2-Phase1.pdf          # ER Model & Business Requirements
-│   └── presentation_slides.pptx      # Phase 1 Presentation
-├── Phase2/
-│   ├── G4-Team2-Phase2.pdf          # Updated ER & Logical Design
-│   ├── netflix_database.sql          # Complete SQL Implementation
-│   ├── query_functions.pdf           # Query Documentation
-│   └── phase2_presentation.pptx      # Demonstration Slides
-├── README.md                         # This file
-└── .gitignore
-```
-
 ## 🔧 Technical Implementation
 
 ### **Database Features**
