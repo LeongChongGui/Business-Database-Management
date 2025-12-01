@@ -100,13 +100,6 @@ USE netflix;
 - Database testing and validation techniques
 - Team collaboration on technical projects
 
-## 👥 Team Members
-- **Elsen Soh** - Team Lead & Database Design
-- **Leong Chong Gui** - Business Requirements Analysis
-- **Teo Jie Ying** - SQL Implementation & Testing
-- **Shamaine Wong** - Documentation & Presentation
-- **Florance Gwee** - Query Design & Analytics
-
 ## 📚 Course Context
 This project was completed for **IS105 Business Data Management** at Singapore Management University, demonstrating proficiency in:
 - Database design principles
